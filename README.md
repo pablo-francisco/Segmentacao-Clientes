@@ -15,7 +15,7 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-white?style=for-the-badge&logo=streamlit&logoColor=fb4b4b)
 
-[![GitHub License](https://img.shields.io/badge/License-MIT-green)](https://github.com/pablo-francisco/img-preprocess-pipeline/blob/master/LICENSE)
+[![GitHub License](https://img.shields.io/badge/License-MIT-green)](https://github.com/pablo-francisco/Segmentacao-Clientes/blob/master/LICENSE)
 
 ***
 ![alt text](images/segmentation.png)
