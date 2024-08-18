@@ -206,7 +206,7 @@ Para reduzir os dados para uma quantidade que consiga armazenar cerca de 90% da 
 Foi utilizado o [K-prototypes](https://pypi.org/project/kmodes/)
 no qual foi realizada uma análise de métricas entre diferentes número de agrupamentos testados, visando encontrar aquele que mais se encaixa com os dados disponíveis. As métricas de avaliação foram o Silhouette Score, Calinski Harabasz Score e o Davies Bouldin Score.
 
- ![alt text](images/Cluster_metrics.png)
+ ![alt text](images/cluster_metrics.png)
 
 As métricas indicam que quanto menor o número de clusters, melhor a divisão realizada. Como a divisão em 2 grupos é muito generalista, foi escolhida uma divisão com `3 clusters`, assim tendo uma diversidade maior durante a segmentação.
 
@@ -215,9 +215,9 @@ As métricas indicam que quanto menor o número de clusters, melhor a divisão r
 
 Os gráficos onde a divisão realmente se destacou de forma perceptível em que pelo menos um dos clusters não contém alguma característica (que também é um fator importante) como nos exemplos abaixo, onde o cluster 2 não possui clientes que aceitaram mais de 2 promoções, e o cluster 0 não possui clientes com mais de duas crianças.
 
-![alt text](images/Clusters_promos.png)
+![alt text](images/clusters_promos.png)
 ***
-![alt text](images/Clusters_kids.png)
+![alt text](images/clusters_kids.png)
 
 Outras características apresentadas nas análises detalhadas foram:
 
